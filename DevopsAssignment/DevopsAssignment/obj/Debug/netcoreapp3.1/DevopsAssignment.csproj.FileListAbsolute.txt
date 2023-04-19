@@ -1,0 +1,14 @@
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.exe
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.deps.json
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.runtimeconfig.json
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.runtimeconfig.dev.json
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.dll
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\bin\Debug\netcoreapp3.1\DevopsAssignment.pdb
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.csproj.AssemblyReference.cache
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.AssemblyInfoInputs.cache
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.AssemblyInfo.cs
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.dll
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.pdb
+C:\Users\harshgupta\source\repos\DevopsAssignment\DevopsAssignment\obj\Debug\netcoreapp3.1\DevopsAssignment.genruntimeconfig.cache
